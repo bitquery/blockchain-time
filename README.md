@@ -1,5 +1,8 @@
 # Analysis of Blockchain Availability Based on Block Lag 
 
+*Aleksey Studnev, Bitquery.io,
+16 May, 2023*
+
 Analysis of the on-chain data for 4 networks ( Bitcoin, Ethereum, Solana, Binance Smart Chain)
 to calculate some statitics over the block time ( time between blocks being mined / inserted in the chain).
 
